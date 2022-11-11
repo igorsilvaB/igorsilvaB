@@ -23,4 +23,4 @@
   <br>
   
   
-  ![snake gif](https://github.com/igorsilvaB/igorsilvaB/blob/output/github-contribution-grid-snake.svg)
+ 
